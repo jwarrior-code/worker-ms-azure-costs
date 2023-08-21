@@ -1,4 +1,4 @@
-# CloudCompare Worker MS-AWS-COST
+# CloudCompare Worker MS-AZURE-COST
 
 ## Compilación
 
