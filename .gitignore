@@ -46,8 +46,4 @@ rsa/
 
 # Directorios de certificados ssl
 certificates/
-
-.idea/
-
-.idea
 /templates/
